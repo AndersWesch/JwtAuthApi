@@ -17,3 +17,6 @@ bld/
 # Rider directories
 .idea/
 .idea_modules/
+
+# Mac man
+.DS_Store
